@@ -1,8 +1,23 @@
-- H1: "Oferecemos os melhores serviços de cibersegurança para empresas."
-- Subtítulo (p): "Temos amplo conhecimento para proteger o seu negócio com soluções personalizadas, especializadas e totalmente adaptadas às suas necessidades."
-- Chips: Pentest • Offensive Security • Capacitação em Segurança
+H1:
+Oferecemos os melhores serviços de cibersegurança para empresas.
+
+Subtítulo (parágrafo):
+Temos amplo conhecimento para proteger o seu negócio com soluções personalizadas, especializadas e totalmente adaptadas às suas necessidades.
+
+Chips / Pill tags:
+Pentest • Offensive Security • Capacitação em Segurança 
 
 
+Título da seção:
+Segurança & Crescimento
+
+Texto:
+A ESECBR realiza testes de intrusão e simulações de ataque para identificar, comprovar e reduzir riscos antes que eles se tornem prejuízo, permitindo que você foque no que realmente importa: o crescimento do seu negócio.
+
+
+
+Título da seção:
 Reconhecimento Internacional
-Nossa equipe possui certificações globalmente reconhecidas, garantindo alto nível de competência em cada projeto.
 
+Texto:
+Nossa equipe possui certificações globalmente reconhecidas, garantindo alto nível de competência em cada projeto.
